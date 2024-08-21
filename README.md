@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+# PASSWORD_CHECKER
 Prodigy summer internship Task 3, That is about check strength of entered password using python
 
 Checking Strength of the password
